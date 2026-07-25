@@ -16,7 +16,7 @@
 * **Financial Health & Wealth Dashboard** 
   * A comprehensive responsive web application designed for real-time net worth tracking, rapid expense/asset categorization via a smart classifier, and tracking financial velocity.
   * **Tech Stack:** Vanilla JavaScript, LocalStorage API, Custom CSS.
-  * **Live Demo:** [View Live App]([financial-calculations.onrender.com])
+  * **Live Demo:** [View Live App][financial-calculations.onrender.com]
 
 
 
