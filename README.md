@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=Hemlock-R&color=blueviolet&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/Hemlock-R?label=Follow&style=social)](https://github.com/Hemlock-R)
+
 ### Hi there, Ransford Vindinoba Kojo
 
 * **Frontend Developer** specializing in clean, responsive web applications, interactive interfaces, and custom utility tools.
