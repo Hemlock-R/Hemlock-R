@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Hemlock-R&color=blueviolet&style=flat)
 ### Hi there, Ransford Vindinoba Kojo
 
 * **Frontend Developer** specializing in clean, responsive web applications, interactive interfaces, and custom utility tools.
