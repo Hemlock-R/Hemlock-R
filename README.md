@@ -22,5 +22,13 @@
     
 * **Live Demo:** [View Live App](https://cediflow-finance-tracker.onrender.com)
 
+* ###  Featured Project
+* **Celebra Birthday Manager** 
+  A lightweight, local-first web application designed to automate team birthday tracking and streamline event logistics across professional and social groups.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hemlock-R&color=blueviolet&style=flat)
+Key Features
+• Instant Coordination: Generates pre-formatted group broadcast alerts with venue and timing details.
+• One-Click Communication: Integrates with WhatsApp APIs for instant personalized wishes and group announcements.
+• Privacy-First: Utilizes secure browser local
+    
+* **Live Demo:** [View Live App](https://celebra-birthday-manager.onrender.com/)
