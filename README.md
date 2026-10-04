@@ -32,4 +32,3 @@ A lightweight, local-first web application designed to automate team birthday tr
   * **One-Click Communication:** Integrates with WhatsApp APIs for instant personalized wishes and group announcements.
   * **Privacy-First:** Utilizes secure browser local storage.
 * **Live Demo:** [View Live App](https://celebra-birthday-manager.onrender.com/)
-* 
