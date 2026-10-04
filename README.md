@@ -12,7 +12,7 @@ Passionate about building lightweight, performance-driven web apps utilizing HTM
 
 ### Tech Stack & Skills
 
-* **Languages:** JavaScript, HTML5, CSS3 (Flexbox, CSS Grid), Tailwind and React, Git, Rest APIs
+* **Languages:** JavaScript, HTML5, CSS3 (Flexbox, CSS Grid), Tailwind, React, Git, Rest APIs
 
 ---
 
@@ -22,7 +22,7 @@ Passionate about building lightweight, performance-driven web apps utilizing HTM
 A comprehensive responsive web application designed for real-time net worth tracking, rapid expense/asset categorization via a smart classifier, and tracking financial velocity.
 
 * **Tech Stack:** Vanilla JavaScript, LocalStorage API, Custom CSS.
-* **Live Demo:** [View Live App](https://)
+* **Live Demo:** [View Live App](https://cediflow-finance-tracker.onrender.com)
 
 #### Celebra Birthday Manager
 A lightweight, local-first web application designed to automate team birthday tracking and streamline event logistics across professional and social groups.
@@ -31,5 +31,5 @@ A lightweight, local-first web application designed to automate team birthday tr
   * **Instant Coordination:** Generates pre-formatted group broadcast alerts with venue and timing details.
   * **One-Click Communication:** Integrates with WhatsApp APIs for instant personalized wishes and group announcements.
   * **Privacy-First:** Utilizes secure browser local storage.
-* **Live Demo:** [View Live App](https://)
+* **Live Demo:** [View Live App](https://celebra-birthday-manager.onrender.com/)
 * 
